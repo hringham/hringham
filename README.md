@@ -8,7 +8,6 @@
   <li><a href="https://github.com/hringham/LABURL">Object-Oriented Programming</a></li>
   <li><a href="https://github.com/hringham/LABURL">Computer Organization</a></li>
   <li><a href="https://github.com/hringham/LABURL">Website Design and Management</a></li>
-  <li><a href="https://github.com/hringham/LABURL">Beginning Programming</a></li>
 </ul>
 
 <h2>✍ Other skills:</h2>
