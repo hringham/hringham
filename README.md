@@ -7,7 +7,7 @@
 <ul>
   <li><a href="https://github.com/hringham/CS-212.git">Object-Oriented Programming</a></li>
   <li><a href="https://github.com/hringham/CS-311.git">Computer Organization</a></li>
-  <li><a href="https://github.com/hringham/LABURL">Website Design and Management</a></li>
+  <li><a href="https://github.com/hringham/CS-156.git">Website Design and Management</a></li>
 </ul>
 
 <h2>✍ Other skills:</h2>
