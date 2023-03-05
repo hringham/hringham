@@ -5,7 +5,7 @@
 
 <h2>👩‍🏫 Recent programs:</h2>
 <ul>
-  <li><a href="https://github.com/hringham/LABURL">Object-Oriented Programming</a></li>
+  <li><a href="[https://github.com/hringham/LABURL](https://github.com/hringham/CS-212.git)">Object-Oriented Programming</a></li>
   <li><a href="https://github.com/hringham/LABURL">Computer Organization</a></li>
   <li><a href="https://github.com/hringham/LABURL">Website Design and Management</a></li>
 </ul>
