@@ -1,7 +1,7 @@
 <h1>Welcome to my portfolio!</h1>
 
 <h2>😄 About me:</h2>
-<p>I'm a Computer Science student in my second year at Meredith College. I am an aspiring game or software developer and am very passionate about computer hardware and programming. I am also studying Business Administration and love to learn about organizations. Take a look around and learn more!</p>
+<p>I'm a Computer Science student in my third year at Meredith College. I am an aspiring software or hardware developer and am very passionate about computer hardware and programming. I am also studying Business Administration and love to learn about organizations. Take a look around and learn more!</p>
 
 <h2>👩‍🏫 Recent programs:</h2>
 <ul>
